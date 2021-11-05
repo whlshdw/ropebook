@@ -2,7 +2,7 @@
 
 ## SRT 的学习记录与分享
 
-[![Author](https://img.shields.io/badge/author-sthwhl-blue.svg?style=flat-square)](https://blog.whlshdw.com)![Email](https://img.shields.io/badge/Email%20me-sthwhl@outlook.com-green.svg?style=flat-square)](sthwhl@outlook.com)
+[![Author](https://img.shields.io/badge/author-whlshdw-blue.svg?style=flat-square)](https://blog.whlshdw.com)[![Email](https://img.shields.io/badge/Email%20me-whlshdw@outlook.com-green.svg?style=flat-square)](whlshdw@outlook.com)
 
 [![sthwhl github stats](https://github-readme-stats.vercel.app/api?username=sthwhl)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,13 +13,5 @@
 
 | 目录 | 描述                                                         |
 | :--- | :----------------------------------------------------------- |
-| 行   | 原创 SRT 学习与总结，笔者 SRT 师承[绳索学院](https://mp.weixin.qq.com/s/JcCnBMYvuFAl86bnwtVUyg)，为法式派系。 |
+| 行   | 原创关于 SRT 学习与总结文章，笔者 SRT 师承[绳索学院](https://mp.weixin.qq.com/s/JcCnBMYvuFAl86bnwtVUyg)，为法式派系 |
 | 采集 | 收集一些优秀绳索技术素材，用于学习                           |
-
-### 03 写作方式
-
-1. ropebook 根目录新增文章
-2. SUMMARY.md 编辑新增内容
-3. 上传至 github 仓库 main
-4. main 同步到 master 分支，merge 代码。
-5. 同步 gitbook，浏览测试。
